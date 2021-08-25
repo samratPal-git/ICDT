@@ -1,0 +1,15 @@
+.Fticon{
+    margin-right:30px;
+}
+
+.Fticon i{
+    font-size: 30px;
+}
+.ftSec{
+    padding-top: 2px;
+}
+
+.bg-light{
+    color: white !important;
+    background: -webkit-linear-gradient(top, #afa231, #ff0000) !important;
+}

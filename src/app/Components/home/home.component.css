@@ -1,0 +1,24 @@
+.carousel-item img{
+    height:95vh;
+}
+.btnGETintouch{
+    padding-left: 15%;
+    margin-top: 40px;
+}
+.btnget{
+    text-transform: uppercase;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    height:50px;
+    background-color: black;
+}
+.conClass{
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 20px;
+    background: -webkit-linear-gradient(bottom, #afa231, #ff0000) !important;
+
+} 

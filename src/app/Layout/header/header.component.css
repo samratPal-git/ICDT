@@ -1,0 +1,50 @@
+.bg-light{
+   
+    background: -webkit-linear-gradient(left,violet,indigo,blue,green,yellow,orange,red) !important;
+}
+.navbar-brand span{
+    margin-left: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+ }
+.logoSignupLogin{
+    width: 15px;
+    height: 15px;
+    margin-right: 14px;
+}
+.btn{
+    background:transparent !important;
+    border-radius: 25px;
+    color: black;
+    margin-left:5px;
+}
+#lsp{
+   background-color: white;
+}
+.btnsp{
+    background:white !important;
+}
+.btnli{
+    border: 2px solid white;
+    color: white;
+}
+.nav-link{
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white !important;
+}
+.dropdown-toggle{
+    border: 3px solid white;
+    border-radius: 20px;
+    padding: 8px;
+}
+.dropButton{
+    margin-left: 80px;
+}
+.Logout{
+    cursor: pointer;
+  }
